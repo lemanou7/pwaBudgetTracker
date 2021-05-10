@@ -75,9 +75,9 @@ You can use any code editor of user choise, i use Vs Code because it is open sou
 
 ![Home Page](./public/assets/images/pwa1.PNG)
 
-2. Added 1 offline entry
+2. Added 2 offline entries (Deposit and expenses)
 
-![Home Page](./public/assets/images/pwa2.PNG)
+![Home Page](./public/assets/images/pw2.PNG)
 
 3. The offline entry successfully sync to db when App went online
 
